@@ -1,0 +1,11 @@
+{
+    "name": "mean seed myproject",
+    "description": "my mean cool app!",
+    "version": "0.0.0",
+    "url": "https://github.com/mygithubhandlehere/mean seed myproject",
+    "options": {
+        "paths": ".",
+        "outdir": "yuidocs/backend",
+        "exclude": "node_modules,public,src"
+    }
+}
