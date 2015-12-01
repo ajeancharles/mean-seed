@@ -1,4 +1,4 @@
-# mean seed myproject
+# meanProject
 
 ## Demo
 NOTE: replace all 'http' with 'https' if using 'https' (set in `config.json`)

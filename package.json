@@ -1,9 +1,9 @@
 {
 	"author": "First Last <first.last@email.com>",
-	"name": "mean seed myproject",
+	"name": "meanProject",
 	"version": "0.0.0",
 	"description": "my mean cool app!",
-	"homepage": "https://github.com/mygithubhandlehere/mean seed myproject",
+	"homepage": "https://github.com/mygithubhandlehere/meanProject",
 	"dependencies": {
 		"async": "1.5.0",
 		"body-parser": "1.14.1",

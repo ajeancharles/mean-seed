@@ -11,8 +11,8 @@
 		"logfile": "forever.log"
 	},
 	"app": {
-		"name": "mean seed myproject",
-		"title": "My Project"
+		"name": "meanProject",
+		"title": "MyMeanProject"
 	},
 	"platform":"",
 	"server": {
@@ -41,7 +41,7 @@
 		"fullURI": "",
 		"host": "localhost",
 		"port": 27017,
-		"database": "mean seed myproject",
+		"database": "meanProject",
 		"username": false,
 		"password": false
 	},
@@ -90,7 +90,7 @@
 		"addresses": {
 			"noReply": "noreply"
 		},
-		"from": "admin@mean seed myproject.com",
+		"from": "admin@meanProject.com",
 		"from_name": "Admin",
 		"mandrillApiKey": "8X-1bNRWtA4rbneppkqahw",
 		"mandrillApiKeyComment":"Make sure to CHANGE this!"

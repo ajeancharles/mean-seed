@@ -1,7 +1,7 @@
 {
 	"prompts":{
-		"optAppName": "mean seed myproject",
-		"optAppTitle": "My Project",
+		"optAppName": "meanProject",
+		"optAppTitle": "MyMeanProject",
 		"optAppDescription": "my mean cool app!",
 		"optAppKeywords": [
 			"mean-seed",
